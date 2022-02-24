@@ -14,6 +14,7 @@ Nexe 2.0 is a rewrite to enable some new features. These include:
   * Bundling is no longer enabled by default
   * To access included resources `fs.readFile` and `fs.readFileSync` should be used
 
+
 ## 2015-02-20, Version v0.3.7, @jaredallard
 
 ### Noteable Changes
