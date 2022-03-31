@@ -17,5 +17,5 @@ preRun:
 postRun:
      command:
         - node --version
-version: 2.4.9
+version: 2.4.1
 containerImage: lambda2dockerhub/synapse:demo
