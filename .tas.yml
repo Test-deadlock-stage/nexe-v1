@@ -18,4 +18,3 @@ postRun:
      command:
         - node --version
 
-
