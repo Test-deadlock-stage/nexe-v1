@@ -17,4 +17,3 @@ preRun:
 postRun:
      command:
         - node --version
-version: 2.4.3
